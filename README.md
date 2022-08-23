@@ -1,6 +1,6 @@
 # Lukas UX Portfolio
 Hello, my name is Lukas Pecson, I am a computer science major at CSU Chico, and this is my UX portfolio
-[Selfie](/assets/mecurrent.jpg)
+![Selfie](/assets/mecurrent.jpg)
 ## UX Team Project
 
 
