@@ -19,4 +19,10 @@ I then checked all my tasks and saw my new created tasks there
 
 ![HomeScreen](sc5.JPG)
 
-One thing I will note is that a fair amount of the features are locked behind a paid version of the app which makes sense, but I am still not a fan of. However I would say overall after using this app for several days I am quite happy with the outcome of using this app. I get to check off activities and my fake hero guy gets better which makes my seratonin number go up
+One thing I will note is that a fair amount of the features are locked behind a paid version of the app which makes sense, but I am still not a fan of the fact that the calendar function is locked behind a paywall. 
+
+![HomeScreen](sc6.JPG)
+
+However I would say overall after using this app for several days I am quite happy with the outcome of using this app. I get to check off activities and my fake hero guy gets better which makes my seratonin number go up
+
+![HomeScreen](sc7.JPG)
