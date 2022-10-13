@@ -11,4 +11,6 @@ To be able to add my first task I just clicked on the big orange + on the bottom
 
 ![HomeScreen](sc3.JPG)
 
-From
+From here I just created a few tasks for myself to complete, I added 1 hour and 2 hours worked on homework as tasks, then I changed the repeat mode to make them daily and show up daily.
+
+![HomeScreen](sc4.JPG)
