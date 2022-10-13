@@ -11,6 +11,12 @@ To be able to add my first task I just clicked on the big orange + on the bottom
 
 ![HomeScreen](sc3.JPG)
 
-From here I just created a few tasks for myself to complete, I added 1 hour and 2 hours worked on homework as tasks, then I changed the repeat mode to make them daily and show up daily.
+From here I just created a few tasks for myself to complete, I added 1 hour and 2 hours worked on homework as tasks, then I changed the repeat mode to make them daily and show up daily. The task creator is very **satisfying** to use and easy to learn, all the buttons are fairly self explanitory and do what they say.
 
 ![HomeScreen](sc4.JPG)
+
+I then checked all my tasks and saw my new created tasks there
+
+![HomeScreen](sc5.JPG)
+
+One thing I will note is that a fair amount of the features are locked behind a paid version of the app which makes sense, but I am still not a fan of. However I would say overall after using this app for several days I am quite happy with the outcome of using this app. I get to check off activities and my fake hero guy gets better which makes my seratonin number go up
