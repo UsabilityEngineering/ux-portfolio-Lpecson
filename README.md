@@ -7,4 +7,4 @@ I took this selfie when starting this profile. I will become a usability master.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with ](j01/)
