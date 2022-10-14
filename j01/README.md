@@ -19,7 +19,7 @@ I then checked all my tasks and saw my new created tasks there
 
 ![HomeScreen](sc5.JPG)
 
-One thing I will note is that a fair amount of the features are locked behind a paid version of the app which makes sense, but I am still not a fan of the fact that the calendar function is locked behind a paywall. 
+One thing I will note is that a fair amount of the features are locked behind a paid version of the app which makes sense, but I am still not a fan of the fact that the calendar function is locked behind a paywall. Another small feature I would really have loved in this app would be a are you sure you want to go back button. I use the back butoon on my phone alot to traverse apps and having just a popup while creating new tasks or profile that says, info is not saved are you sure you want to go back. or something along those lines.
 
 ![HomeScreen](sc6.JPG)
 
