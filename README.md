@@ -10,4 +10,4 @@ I took this selfie when starting this profile. I will become a usability master.
 [Read about my experience with Do It Now an RPG themed life planning app ](j01/)
 
 ## UX Journal 2
-[Experiences with learning Adobe Premiere](j01/)
+[Experiences with learning Adobe Premiere](j02/)
