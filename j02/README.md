@@ -24,4 +24,5 @@ Then I wanted that to delete the first chunk I selected. So my first thought was
 
 ![HomeScreen](deleted.JPG)
 
-I then continued to cut out other bits I did not want in my video until I decided that I wanted to make a title screen for the start of my video.
+I then continued to cut out other bits I did not want in my video until I decided that I wanted to make a title screen for the start of my video. I clicked on the import in the top left hand side of the screen and this time I went into my photos folder and selected a random picture that I could use for the titlescreen still of my video. I imported the photo and it showed up in the bottom left of my screen and on the left upper screen but not in the actual video when I clicked play. I then right clicked on the photo and saw there was an option "Insert" which I clicked and it was added to my video. I then dragged the rest of the footage to line up and play after.
+![HomeScreen](title.JPG)
