@@ -17,3 +17,6 @@ I clicked through all the features and was presented with a prompt to start my f
 Once i had the clips selected I clicked create and I was greeted by my first project with all my selected clips in the bottom left of my screen, some tutorial options on the left, and a preview+audio tracks as the main part of the screen.
 
 ![HomeScreen](startingproject.JPG)
+
+My next play was to edit some of my clips. I wanted to cut out a bunch of the screentime when I was not doing anything interesting in the footage, So I went to the sidebar thats next to the video segments on the bottom of the screen and clicked on the Razor because to me that was the thing that seemed closest to a cut tool. When I clicked on the middle of the footage it then split the video into 2 different pieces. I was then able to select the just the first bit that I wanted to cut out.
+![HomeScreen](razor.JPG)
