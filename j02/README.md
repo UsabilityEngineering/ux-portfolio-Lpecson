@@ -20,3 +20,5 @@ Once i had the clips selected I clicked create and I was greeted by my first pro
 
 My next play was to edit some of my clips. I wanted to cut out a bunch of the screentime when I was not doing anything interesting in the footage, So I went to the sidebar thats next to the video segments on the bottom of the screen and clicked on the Razor because to me that was the thing that seemed closest to a cut tool. When I clicked on the middle of the footage it then split the video into 2 different pieces. I was then able to select the just the first bit that I wanted to cut out.
 ![HomeScreen](razor.JPG)
+Then I assumed that to delete the chunk I selected to get rid of I could just select it and click the delete button on my keyboard and it worked exactly as intended.
+![HomeScreen](deleted.JPG)
