@@ -12,3 +12,5 @@ I downloaded adobe premiere and when I first opened it I was greeted with a page
 ![HomeScreen](PremiereIntroPage.JPG)
 I clicked through all the features and was presented with a prompt to start my first project. I clicked the create new project button and was presented with some preset video clips to use for tutorial purposes. I saw that on the left it had all my files of my machine so I went to my clips section I had and selected a couple of clips to make a video.
 ![HomeScreen](selectedclips.JPG)
+Once i had the clips selected I clicked create and I was greeted by my first project with all my selected clips in the bottom left of my screen, some tutorial options on the left, and a preview+audio tracks as the main part of the screen.
+![HomeScreen](startingproject.JPG)
