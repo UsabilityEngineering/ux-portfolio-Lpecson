@@ -11,6 +11,7 @@ I just wanted to get a good grip on the features available to me, and put togeth
 3. Add in audio files to be used as sound effects in the video
 4. Add a title screen still for my title at the beginning
 5. Add an ending textBox
+
 Additionally I want to complete this without looking at any of the tutorials offered as they would be telling me how to use any given features
 
 ## Starting my first project
