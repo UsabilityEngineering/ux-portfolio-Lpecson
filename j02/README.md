@@ -42,7 +42,7 @@ I then continued to cut out other bits I did not want in my video until I decide
 
 ![HomeScreen](title.JPG)
 
-Next up I wanted to add some sound effects to my video. I went online and found some free sound effects and downloaded some to use. I ended up using this "BONK" sound effect. I navigated through the bottom left screen to where I had saved the sound and dragged it below the video file in the bottom right. From there it was just a matter of finding where exactly in the video I wanted it to be. I just clicked and dragged it and it worked exactly how I thought it would.
+Next up I wanted to add some sound effects to my video. I went online and found some free sound effects and downloaded some to use. I ended up using this "BONK" sound effect. This is where I have to praise Premiere as the integrated file system on the bottom left that lets you search your machine for pictures, clips, and audio is just so **satisfying** to use. Having it integrated right into the project is really just so convienent to use. From there it was just a matter of finding where exactly in the video I wanted it to be. I just clicked and dragged it and it worked exactly how I thought it would.
 
 ![HomeScreen](Addingaudio.JPG)
 
